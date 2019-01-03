@@ -1,6 +1,8 @@
 Anax Weather module
 ==================================
 
+[![Build Status](https://travis-ci.org/H4MSK1/anax-weather.svg?branch=master)](https://travis-ci.org/H4MSK1/anax-weather)
+
 Table of content
 ------------------------------------
 
