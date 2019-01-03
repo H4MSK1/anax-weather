@@ -3,6 +3,10 @@ Anax Weather module
 
 [![Build Status](https://travis-ci.org/H4MSK1/anax-weather.svg?branch=master)](https://travis-ci.org/H4MSK1/anax-weather)
 [![CircleCI](https://circleci.com/gh/H4MSK1/anax-weather.svg?style=svg)](https://circleci.com/gh/H4MSK1/anax-weather)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/?branch=master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+[![Build Status](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/build.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/build-status/master)
 
 Table of content
 ------------------------------------
