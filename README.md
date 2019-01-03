@@ -1,12 +1,13 @@
 Anax Weather module
 ==================================
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/6aa5cb66117befd0ebfc/maintainability)](https://codeclimate.com/github/H4MSK1/anax-weather/maintainability)
 [![Build Status](https://travis-ci.org/H4MSK1/anax-weather.svg?branch=master)](https://travis-ci.org/H4MSK1/anax-weather)
+[![Build Status](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/build.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/build-status/master)
 [![CircleCI](https://circleci.com/gh/H4MSK1/anax-weather.svg?style=svg)](https://circleci.com/gh/H4MSK1/anax-weather)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/?branch=master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![Build Status](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/badges/build.png?b=master)](https://scrutinizer-ci.com/g/H4MSK1/anax-weather/build-status/master)
 
 Table of content
 ------------------------------------
